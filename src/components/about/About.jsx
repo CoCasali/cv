@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             <article className='about__card'>
@@ -35,11 +35,11 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam unde, dolore voluptas natus aliquam culpa eaque necessitatibus impedit nemo mollitia ex laborum voluptatibus possimus, quam, repellat velit dolorem voluptates doloribus laboriosam incidunt ipsum at odit labore. Vero quisquam dolorum magni sit eaque voluptatum non ullam ipsa, hic rerum dolorem beatae?
+          Actuellement en poste de chargé d'études / data analyst dans un laboratoire universitaire de recherche travaillant des des domaines concernant la neurologie, biomécanique, physiologie de l'exercice.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
