@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/resume-react/static/css/main.13523376.css",
-    "main.js": "/resume-react/static/js/main.823e5283.js",
+    "main.css": "/resume-react/static/css/main.64804174.css",
+    "main.js": "/resume-react/static/js/main.92e8970a.js",
     "static/media/me3.png": "/resume-react/static/media/me3.a8d461cb3a00266659b5.png",
     "static/media/me2.jpg": "/resume-react/static/media/me2.3e226b9b16356c87ff5e.jpg",
     "static/media/portfolio3.jpg": "/resume-react/static/media/portfolio3.22da3b5d78efb5e450e3.jpg",
@@ -9,11 +9,11 @@
     "static/media/portfolio1.jpg": "/resume-react/static/media/portfolio1.a9e673f8e72b5f9f4c41.jpg",
     "static/media/CV - Corentin 2021.pdf": "/resume-react/static/media/CV - Corentin 2021.e0f50d4817af92249a1f.pdf",
     "index.html": "/resume-react/index.html",
-    "main.13523376.css.map": "/resume-react/static/css/main.13523376.css.map",
-    "main.823e5283.js.map": "/resume-react/static/js/main.823e5283.js.map"
+    "main.64804174.css.map": "/resume-react/static/css/main.64804174.css.map",
+    "main.92e8970a.js.map": "/resume-react/static/js/main.92e8970a.js.map"
   },
   "entrypoints": [
-    "static/css/main.13523376.css",
-    "static/js/main.823e5283.js"
+    "static/css/main.64804174.css",
+    "static/js/main.92e8970a.js"
   ]
 }
