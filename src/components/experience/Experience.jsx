@@ -84,8 +84,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Visualization Librairies</h4>
-                <small className='text-light'>Matplolib, Seaborn, GGplot, Plotly - Intermediate</small>
+                <h4>R Studio</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>
