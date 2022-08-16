@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          Actuellement en poste de chargé d'études / data analyst dans un laboratoire universitaire de recherche travaillant des des domaines concernant la neurologie, biomécanique, physiologie de l'exercice.
+          Currently working as a researcher / Data Analyst in a university research laboratory working in the fields of neurology, biomechanics, exercise physiology.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

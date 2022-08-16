@@ -3,6 +3,8 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
+import {FaGithub} from 'react-icons/fa'
+
 
 // DON'T USE THE IMAGES IN PRODUCTION
 
@@ -10,21 +12,21 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard',
+    title: 'Public health study',
     github: 'https://github.com',
     demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates',
+    title: 'Optimize the data management of a store',
     github: 'https://github.com',
     demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Dashboard Figma',
+    title: 'Drinking water study',
     github: 'https://github.com',
     demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
   }
@@ -46,7 +48,7 @@ const Portfolio = () => {
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href={github} className='btn' target='_blank'>Github</a>
+                <a href={github} className='btn' target='_blank'> <FaGithub/> Github</a>
                 <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
               </div>
               </article>
