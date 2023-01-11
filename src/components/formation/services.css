@@ -63,7 +63,7 @@
     font-size: .8rem;
 }
 
-.service__list:hover p {
+.service:hover p {
     color: var(--color-white);
 }
 
