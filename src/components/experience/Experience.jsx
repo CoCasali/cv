@@ -51,6 +51,14 @@ const Experience = () => {
                 <small className='text-light'>Beginner</small>
               </div>
             </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>React</h4>
+                <small className='text-light'>Beginner</small>
+              </div>
+            </article>
           </div>
         </div>
 
@@ -85,13 +93,23 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>R Studio</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Postman</h4>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
           </div>
         </div>
       </div>
     </section>
+
+
   )
 }
 

@@ -13,6 +13,7 @@ const Services = () => {
           <div className='service__head'>
             <h3>Master of Sciences</h3>
             <h4>Evaluation and Engineering of sports performance</h4>
+            <h5>(2019-2021)</h5>
           </div>
           <ul className='service__list'>
             <li>
@@ -37,6 +38,7 @@ const Services = () => {
         <article className='service'>
           <div className='service__head'>
             <h3>Data Analyst</h3>
+            <h5>(2021-2022)</h5>
           </div>
 
           <ul className='service__list'>

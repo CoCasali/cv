@@ -37,6 +37,13 @@
     text-align: center;
 }
 
+.service__head h5 {
+    color: var(--color-bg);
+    font-size: .7rem;
+    text-align: center;
+    font-style: italic;
+}
+
 .service__list {
     padding: 2rem;
 }

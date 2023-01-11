@@ -2,8 +2,10 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/corentin2.png'
 import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
+// import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
+import {FaNewspaper} from 'react-icons/fa'
+
 
 const About = () => {
   return (
@@ -27,9 +29,9 @@ const About = () => {
             </article>
 
             <article className='about__card'>
-              <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>200+ Wordlwide</small>
+              <FaNewspaper className='about__icon'/>
+              <h5>Scientific Paper</h5>
+              <small>1 submission, 1 in writing</small>
             </article>
 
             <article className='about__card'>
