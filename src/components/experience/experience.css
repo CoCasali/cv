@@ -36,6 +36,28 @@
     gap: 1rem;
 }
 
+.experience__modelling:hover h4 {
+    color: var(--color-white);
+}
+
+.experience__preprocessing:hover h4 {
+    color: var(--color-white);
+}
+
+.experience__details small {
+    color: var(--color-small);
+}
+
+.experience__modelling:hover small {
+    color: var(--color-light);
+}
+
+.experience__preprocessing:hover small {
+    color: var(--color-light);
+}
+
+
+
 .experience__details-icon {
     margin-top : 6px;
     color: var(--color-primary);

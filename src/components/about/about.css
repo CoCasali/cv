@@ -53,18 +53,27 @@
 
 .about__icon {
     color : var(--color-primary);
-    font-size : 2.6rem;
+    font-size : 2.3rem;
     margin-bottom: 1rem;
 }
 
 .about__card h5 {
-    font-size:1.2rem;
+    font-size:1rem;
 }
 
 .about__card small {
-    font-size: 0.8rem;
-    color : var(--color-light);
+    font-size: 0.7rem;
+    color : var(--color-small);
 }
+
+.about__card:hover h5 {
+    color:var(--color-white);
+}
+
+.about__card:hover small {
+    color:var(--color-light);
+}
+
 
 .about__content p {
     margin: 2rem 0 2.6rem;

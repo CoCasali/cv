@@ -27,12 +27,20 @@
     text-align: center;
 }
 
+.portfolio__item:hover h3 {
+    color: var(--color-white)
+}
+
 .portfolio__item p {
     margin-bottom: 2rem;
     text-align: center;
     font-size: 0.8rem;
-    color: var(--color-light);
+    color: var(--color-small);
     font-style:italic;
+}
+
+.portfolio__item:hover p {
+    color: var(--color-light);
 }
 
 

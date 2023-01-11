@@ -29,15 +29,15 @@ const About = () => {
             </article>
 
             <article className='about__card'>
-              <FaNewspaper className='about__icon'/>
-              <h5>Scientific Paper</h5>
-              <small>1 submission, 1 in writing</small>
-            </article>
-
-            <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
               <small>10+ Completed</small>
+            </article>
+
+            <article className='about__card'>
+              <FaNewspaper className='about__icon'/>
+              <h5>Scientific Paper</h5>
+              <small>1 in submission; <br/> 1 in writing</small>
             </article>
           </div>
           <p>
