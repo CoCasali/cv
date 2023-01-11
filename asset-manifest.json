@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/resume-react/static/css/main.e2a59493.css",
-    "main.js": "/resume-react/static/js/main.17018fa7.js",
+    "main.css": "/resume-react/static/css/main.3804e89a.css",
+    "main.js": "/resume-react/static/js/main.f3d4c2da.js",
     "static/media/corentin2.png": "/resume-react/static/media/corentin2.987edb5e3a96ee33cbd6.png",
     "static/media/corentin_header.png": "/resume-react/static/media/corentin_header.eb26e57b1bd018458140.png",
     "static/media/projet10.png": "/resume-react/static/media/projet10.85f023115857280a099c.png",
     "static/media/projet9.png": "/resume-react/static/media/projet9.892d8b599887fce8a19e.png",
     "static/media/projet4.png": "/resume-react/static/media/projet4.74a051c2b5022ede3036.png",
-    "static/media/CV - Corentin 2021.pdf": "/resume-react/static/media/CV - Corentin 2021.e0f50d4817af92249a1f.pdf",
+    "static/media/CV_CorentinCasali.pdf": "/resume-react/static/media/CV_CorentinCasali.94f33d42b90a351c5976.pdf",
     "index.html": "/resume-react/index.html",
-    "main.e2a59493.css.map": "/resume-react/static/css/main.e2a59493.css.map",
-    "main.17018fa7.js.map": "/resume-react/static/js/main.17018fa7.js.map"
+    "main.3804e89a.css.map": "/resume-react/static/css/main.3804e89a.css.map",
+    "main.f3d4c2da.js.map": "/resume-react/static/js/main.f3d4c2da.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2a59493.css",
-    "static/js/main.17018fa7.js"
+    "static/css/main.3804e89a.css",
+    "static/js/main.f3d4c2da.js"
   ]
 }
