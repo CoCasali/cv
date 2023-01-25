@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/projet4.png'
+import IMG1 from '../../assets/application_force_velocity.png'
 import IMG2 from '../../assets/projet10.png'
 import IMG3 from '../../assets/projet9.png'
 import {FaGithub} from 'react-icons/fa'
@@ -13,10 +13,10 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Public health study',
-    duration: "(~ 1 month)",
-    github: 'https://github.com/CoCasali/public-health-study',
-    demo: 'https://github.com/CoCasali/public-health-study/blob/main/notebook.ipynb'
+    title: 'Application - Force Velocity',
+    duration: "(4 months)",
+    github: 'https://github.com/CoCasali/pfv',
+    demo: 'https://profil-force-vitesse.streamlit.app/'
   },
   {
     id: 2,
@@ -53,8 +53,8 @@ const Portfolio = () => {
               <h3>{title}</h3>
               <p>{duration}</p>
               <div className="portfolio__item-cta">
-                <a href={github} className='btn' target='_blank'> <FaGithub/> Github</a>
-                <a href={demo} className='btn btn-primary' target='_blank'><TbNotebook/> Notebook</a>
+                <a href={github} className='btn' target='_blank' rel="noopener noreferrer"> <FaGithub/> Github</a>
+                <a href={demo} className='btn btn-primary' target='_blank' rel="noopener noreferrer"><TbNotebook/> Demo</a>
               </div>
               </article>
             )
