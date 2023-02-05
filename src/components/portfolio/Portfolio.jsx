@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/application_force_velocity.png'
 import IMG2 from '../../assets/projet10.png'
-import IMG3 from '../../assets/projet9.png'
+import IMG3 from '../../assets/titanic.png'
 import {FaGithub} from 'react-icons/fa'
 import {TbNotebook} from 'react-icons/tb'
 
@@ -29,10 +29,10 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Market study: chicken exporting companye',
+    title: 'Titanic - Machine Learning',
     duration: "(1 month)",
-    github: 'https://github.com/CoCasali/market-study-chicken',
-    demo: 'https://github.com/CoCasali/market-study-chicken/blob/main/notebook.ipynb'
+    github: 'https://github.com/CoCasali/titanic_ml',
+    demo: 'https://github.com/CoCasali/titanic_ml/blob/main/notebook/EDA.ipynb'
   }
 ]
 
